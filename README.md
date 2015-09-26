@@ -1,1 +1,1 @@
-# DSCC
+# datasciencecoursera
